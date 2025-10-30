@@ -20,7 +20,7 @@
 ### 🐈 Scratch
 - my account is [-Alkiva-](https://scratch.mit.edu/users/-Alkiva-) and [Kelaskaryabersama](https://scratch.mit.edu/users/kelaskaryabersama)
 - still thinking what to create next. considering to make a library for all svg designs I made
-- meanwhile, please try my newest [game](alkivaadiarsa.github.io/greenscratch.html)
+- meanwhile, please try my newest [game](https://alkivaadiarsa.github.io/greenscratch.html)
 - my favourite code block is:
 <img width="150" height="42" alt="image" src="https://github.com/user-attachments/assets/41ca9690-f0db-48f3-af4d-3c9801aaea31" />
 - ⚙️ my favourite extension is the 🖊️ pen extension
