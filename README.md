@@ -23,12 +23,57 @@
 - meanwhile, please try my newest [game](https://alkivaadiarsa.github.io/greenscratch.html)
 - my favourite code block is:
 <img width="150" height="42" alt="image" src="https://github.com/user-attachments/assets/41ca9690-f0db-48f3-af4d-3c9801aaea31" />
+
 - ⚙️ my favourite extension is the 🖊️ pen extension
 
 
 ### 🐍 Python
 - still learning
-
+#### libraries:
+<p>
+altgraph
+asttokens
+beautifulsoup4
+bs4
+certifi
+charset-normalizer
+colorama
+contourpy
+cycler
+decorator
+executing
+fonttools
+idna
+ipython
+ipython_pygments_lexers
+jedi
+Jinja2
+jsonpickle
+kiwisolver
+MarkupSafe
+matplotlib
+matplotlib-inline
+networkx
+numpy
+packaging
+parso
+pefile
+pillow
+pip
+prompt_toolkit
+pure_eval
+pygame
+Pygments
+pyinstaller
+pyinstaller-hooks-contrib
+PyOpenGL
+PyOpenGL-accelerate pyparsing
+python-dateutil pywin32-ctypes
+requests scratchattach
+setuptools SimpleWebSocketServer
+six soupsieve
+stack-data traitlets urllib3 wcwidth websocket_client 
+</p>
 
 ### 👨‍💻 HTML
  - I can't really memorize text code very accurately, so i'm using bootstrap
