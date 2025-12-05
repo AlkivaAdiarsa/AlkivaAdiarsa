@@ -1,4 +1,11 @@
 <div align="center">
+<p align="start">
+──▒▒▒▒▒▒───▄████▄<br>
+─▒─▄▒─▄▒──███▄█▀<br>
+─▒▒▒▒▒▒▒─▐████──█─█<br>
+─▒▒▒▒▒▒▒──█████▄<br>
+─▒─▒─▒─▒───▀████▀<br>
+</p>
 <p>
 ▄▀█ █░░ █▄▀ █ █░█ ▄▀█ ▄▀█ █▀▄ █ ▄▀█ █▀█ █▀ ▄▀█<br>
 █▀█ █▄▄ █░█ █ ▀▄▀ █▀█ █▀█ █▄▀ █ █▀█ █▀▄ ▄█ █▀█
@@ -12,7 +19,6 @@
 -->
 
 ## About Me
-  
  - 🏫 I am a junior high school student
  - 📖 I learn 👨‍💻 coding by myself
  - ❤️ I love 💭 imagination, 🐈 cats, 🧩 logic, ✈️🚗 vehicles, and 🔧 making things work
