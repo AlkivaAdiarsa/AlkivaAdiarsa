@@ -1,5 +1,9 @@
-# 👋 Hi!
-
+<div align="center">
+<p>
+▄▀█ █░░ █▄▀ █ █░█ ▄▀█ ▄▀█ █▀▄ █ ▄▀█ █▀█ █▀ ▄▀█<br>
+█▀█ █▄▄ █░█ █ ▀▄▀ █▀█ █▀█ █▄▀ █ █▀█ █▀▄ ▄█ █▀█
+</p>
+</div>
 <a href="#about-me">About</a> |
 <a href="#what-i-work-on"> Things </a>
 
@@ -28,57 +32,14 @@
 
 
 ### 🐍 Python
-- still learning
-#### libraries:
-<p>
-altgraph
-asttokens
-beautifulsoup4
-bs4
-certifi
-charset-normalizer
-colorama
-contourpy
-cycler
-decorator
-executing
-fonttools
-idna
-ipython
-ipython_pygments_lexers
-jedi
-Jinja2
-jsonpickle
-kiwisolver
-MarkupSafe
-matplotlib
-matplotlib-inline
-networkx
-numpy
-packaging
-parso
-pefile
-pillow
-pip
-prompt_toolkit
-pure_eval
-pygame
-Pygments
-pyinstaller
-pyinstaller-hooks-contrib
-PyOpenGL
-PyOpenGL-accelerate pyparsing
-python-dateutil pywin32-ctypes
-requests scratchattach
-setuptools SimpleWebSocketServer
-six soupsieve
-stack-data traitlets urllib3 wcwidth websocket_client 
-</p>
+- making games with Pygame, though 70% still unreleased
+- coming soon: VerboseXOR, a bitwise XOR step by step explainer, plus an XOR encryption tool 
 
 ### 👨‍💻 HTML
  - I can't really memorize text code very accurately, so i'm using bootstrap
  - my favourite line of code is: ``` (idk) ```
 
 ### 👨‍💻 A bit of Javascript and Batch
+
   
 
