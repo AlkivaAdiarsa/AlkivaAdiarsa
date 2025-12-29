@@ -49,11 +49,7 @@
 - making games with Pygame, though 70% still unreleased
 - coming soon: VerboseXOR, a bitwise XOR step by step explainer, plus an XOR encryption tool 
 
-### 👨‍💻 HTML
- - I can't really memorize text code very accurately, so i'm using bootstrap
- - my favourite line of code is: ``` (idk) ```
-
-### 👨‍💻 A bit of Javascript and Batch
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/daaf664e-d866-4a7c-b8a4-f2e2618bd001" />
 
   
 
